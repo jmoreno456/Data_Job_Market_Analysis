@@ -2,3 +2,10 @@
 /.vscode
 /csv_files
 /sql_load
+/assets/optimal_skills.csv
+/assets/top_demanded_skills.csv
+/assets/top_paying_job_skills.csv
+/assets/top_paying_jobs.csv
+/assets/top_paying_skills.csv
+/SQL_data_analysis_dashboard.twbx
+/assets/top_skills_by_job_category.csv

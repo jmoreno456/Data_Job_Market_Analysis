@@ -1,7 +1,9 @@
 # Introduction
 This project focuses on the data job market. I will be looking into top-paying jobs, in-demand skills, and where high demand meets high salary in positions such as Data Analyst, Data Scientist, and Data Engineer.
 
-SQL queries? Check them out here: [sql_project folder](/sql_project/)
+SQL queries: [sql_project folder](/sql_project/)
+
+Tableau Dashboard: [Dashboard](https://public.tableau.com/app/profile/jesse.m1044/viz/SQL_data_analysis_dashboard/DataJobMarketAnalysis?publish=yes)
 
 # Questions
 The questions I wanted to answer in this project are as follows: 
